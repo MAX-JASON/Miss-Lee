@@ -60,35 +60,33 @@
     <th> 添壽增額終身壽險 <br>( 台幣計價 )</th>
     <th> 萬美利 2 年期 <br>( 美元計價 )</th>
     <th> 轉換評估 </th>
-  </tr>
-  <tr>
+  </tr>  <tr>
     <td> 目前現金價值 </td>
-    <td> 約 NT$4,500,000<br>( 保單已經 30 年 )</td>
-    <td> 約 USD$145,000<br>( 等值 NT$4,640,000)</td>
+    <td> 約 NT$90,000<br>( 保單已經 30 年 )</td>
+    <td> 約 USD$2,850<br>( 等值 NT$91,200)</td>
     <td> 初期轉換 <br> 略有增值 </td>
   </tr>
   <tr style="background-color: #f0f9ed;">
     <td> 目前身故保障 </td>
-    <td> 約 NT$8,400,000</td>
-    <td> 約 USD$290,000<br>( 等值 NT$9,280,000)</td>
-    <td> 保障提升 <br> 約 10.5%</td>
+    <td> 約 NT$180,000</td>
+    <td> 約 USD$5,700<br>( 等值 NT$182,400)</td>
+    <td> 保障提升 <br> 約 1.3%</td>
   </tr>
   <tr>
     <td>20 年後現金價值 </td>
-    <td> 約 NT$6,800,000<br>( 固定成長型 )</td>
-    <td> 約 USD$260,000<br>( 等值 NT$8,320,000)</td>
-    <td><strong> 長期增值 <br> 約 22.4%</strong></td>
+    <td> 約 NT$135,000<br>( 固定成長型 )</td>
+    <td> 約 USD$5,200<br>( 等值 NT$166,400)</td>
+    <td><strong> 長期增值 <br> 約 23.3%</strong></td>
   </tr>
   <tr style="background-color: #f0f9ed;">
     <td>20 年後身故保障 </td>
-    <td> 約 NT$12,500,000</td>
-    <td> 約 USD$520,000<br>( 等值 NT$16,640,000)</td>
-    <td><strong> 保障差距 <br> 約 33.1%</strong></td>
-  </tr>
-  <tr>
+    <td> 約 NT$270,000</td>
+    <td> 約 USD$10,400<br>( 等值 NT$332,800)</td>
+    <td><strong> 保障差距 <br> 約 23.3%</strong></td>
+  </tr>  <tr>
     <td> 內部報酬率 (IRR)</td>
-    <td> 約 3.1%<br>( 台幣計價 )</td>
-    <td> 約 4.2%<br>( 美元計價 )</td>
+    <td> 約 2.1%<br>( 台幣計價 )</td>
+    <td> 約 3.2%<br>( 美元計價 )</td>
     <td> 萬美利效率 <br> 提高約 110 bps</td>
   </tr>
   <tr style="background-color: #f0f9ed;">
@@ -100,43 +98,42 @@
 </table>
 
 <div style="display: flex; justify-content: space-between; margin-top: 30px;">
-  <!-- 身故保障比較圖 -->
-  <div style="width: 48%; border: 1px solid #ddd; padding: 15px; border-radius: 5px;">
+  <!-- 身故保障比較圖 -->  <div style="width: 48%; border: 1px solid #ddd; padding: 15px; border-radius: 5px;">
     <h3 style="text-align: center; color: #336699;"> 身故保障價值對比 </h3>
     <div style="display: flex; height: 250px; align-items: flex-end; justify-content: space-around; padding-bottom: 20px; position: relative;">
       <!-- Y 軸標籤 -->
       <div style="position: absolute; left: -50px; height: 100%; display: flex; flex-direction: column; justify-content: space-between;">
-        <span>NT$20M</span>
-        <span>NT$15M</span>
-        <span>NT$10M</span>
-        <span>NT$5M</span>
+        <span>NT$400K</span>
+        <span>NT$300K</span>
+        <span>NT$200K</span>
+        <span>NT$100K</span>
         <span>0</span>
       </div>
       
       <div style="width: 15%; height: 51%; background-color: #6c9bcf; position: relative;">
         <div style="position: absolute; bottom: -25px; text-align: center; width: 100%;"> 現在 </div>
-        <div style="position: absolute; top: -25px; text-align: center; width: 100%;">$8.4M</div>
+        <div style="position: absolute; top: -25px; text-align: center; width: 100%;">$180K</div>
       </div>
       <div style="width: 15%; height: 65%; background-color: #6c9bcf; position: relative;">
         <div style="position: absolute; bottom: -25px; text-align: center; width: 100%;">10 年後 </div>
-        <div style="position: absolute; top: -25px; text-align: center; width: 100%;">$10.5M</div>
+        <div style="position: absolute; top: -25px; text-align: center; width: 100%;">$225K</div>
       </div>
       <div style="width: 15%; height: 76%; background-color: #6c9bcf; position: relative;">
         <div style="position: absolute; bottom: -25px; text-align: center; width: 100%;">20 年後 </div>
-        <div style="position: absolute; top: -25px; text-align: center; width: 100%;">$12.5M</div>
+        <div style="position: absolute; top: -25px; text-align: center; width: 100%;">$270K</div>
       </div>
       
       <div style="width: 15%; height: 56%; background-color: #93c47d; position: relative;">
         <div style="position: absolute; bottom: -25px; text-align: center; width: 100%;"> 現在 </div>
-        <div style="position: absolute; top: -25px; text-align: center; width: 100%;">$9.3M</div>
+        <div style="position: absolute; top: -25px; text-align: center; width: 100%;">$182K</div>
       </div>
       <div style="width: 15%; height: 75%; background-color: #93c47d; position: relative;">
         <div style="position: absolute; bottom: -25px; text-align: center; width: 100%;">10 年後 </div>
-        <div style="position: absolute; top: -25px; text-align: center; width: 100%;">$12.5M</div>
+        <div style="position: absolute; top: -25px; text-align: center; width: 100%;">$257K</div>
       </div>
       <div style="width: 15%; height: 100%; background-color: #93c47d; position: relative;">
         <div style="position: absolute; bottom: -25px; text-align: center; width: 100%;">20 年後 </div>
-        <div style="position: absolute; top: -25px; text-align: center; width: 100%;">$16.6M</div>
+        <div style="position: absolute; top: -25px; text-align: center; width: 100%;">$333K</div>
       </div>
     </div>
     <div style="display: flex; justify-content: center; margin-top: 30px;">
@@ -153,8 +150,7 @@
   
   <!-- 現金價值比較圖 -->
   <div style="width: 48%; border: 1px solid #ddd; padding: 15px; border-radius: 5px;">
-    <h3 style="text-align: center; color: #336699;"> 現金價值資產對比 </h3>
-    <div style="height: 250px; display: flex; align-items: flex-end; position: relative;">
+    <h3 style="text-align: center; color: #336699;"> 現金價值資產對比 </h3>    <div style="height: 250px; display: flex; align-items: flex-end; position: relative;">
       <!-- 背景格線 -->
       <div style="position: absolute; width: 100%; height: 1px; background-color: #eee; bottom: 50px;"></div>
       <div style="position: absolute; width: 100%; height: 1px; background-color: #eee; bottom: 100px;"></div>
@@ -176,8 +172,8 @@
           <circle cx="400" cy="40" r="4" fill="#6c9bcf" />
           
           <!-- 添壽增額數據標籤 -->
-          <text x="0" y="75" font-size="10" fill="#6c9bcf">$4.5M</text>
-          <text x="400" y="30" font-size="10" fill="#6c9bcf">$6.8M</text>
+          <text x="0" y="75" font-size="10" fill="#6c9bcf">$90K</text>
+          <text x="400" y="30" font-size="10" fill="#6c9bcf">$135K</text>
         </svg>
       </div>
       
@@ -191,8 +187,8 @@
           <circle cx="400" cy="15" r="4" fill="#93c47d" />
           
           <!-- 萬美利數據標籤 -->
-          <text x="0" y="72" font-size="10" fill="#93c47d">$4.64M</text>
-          <text x="400" y="5" font-size="10" fill="#93c47d">$8.32M</text>
+          <text x="0" y="72" font-size="10" fill="#93c47d">$91K</text>
+          <text x="400" y="5" font-size="10" fill="#93c47d">$166K</text>
         </svg>
       </div>
       
@@ -205,10 +201,10 @@
       
       <!-- Y 軸標籤 -->
       <div style="position: absolute; left: -60px; height: 100%; display: flex; flex-direction: column; justify-content: space-between;">
-        <span>NT$10M</span>
-        <span>NT$7.5M</span>
-        <span>NT$5M</span>
-        <span>NT$2.5M</span>
+        <span>NT$200K</span>
+        <span>NT$150K</span>
+        <span>NT$100K</span>
+        <span>NT$50K</span>
         <span>0</span>
       </div>
     </div>
@@ -245,17 +241,16 @@
       <th> 添壽增額 </th>
       <th> 萬美利 </th>
       <th> 增益評估 </th>
-    </tr>
-    <tr>
+    </tr>    <tr>
       <td> 名目年化報酬 </td>
-      <td>3.1%</td>
-      <td>4.2%</td>
+      <td>2.1%</td>
+      <td>3.2%</td>
       <td>+1.1%</td>
     </tr>
     <tr>
       <td> 風險調整後報酬 </td>
-      <td>3.0%</td>
-      <td>3.7%</td>
+      <td>2.0%</td>
+      <td>2.7%</td>
       <td>+0.7%</td>
     </tr>
     <tr>
@@ -273,16 +268,15 @@
   </table>
   
   <h3> 保單轉換評估 :</h3>
-  <div style="margin-top: 15px; padding: 15px; background-color: #e6f7ff; border-left: 4px solid #1890ff; border-radius: 3px;">
-    <strong> 轉換價值評估建議 :</strong><br><br>
+  <div style="margin-top: 15px; padding: 15px; background-color: #e6f7ff; border-left: 4px solid #1890ff; border-radius: 3px;">    <strong> 轉換價值評估建議 :</strong><br><br>
     
-    1. <strong> 資產增值潛力 </strong>: 萬美利提供較高增值空間， 20 年期間可能增值差距達約 NT$1,520,000<br>
+    1. <strong> 資產增值潛力 </strong>: 萬美利提供較高增值空間， 20 年期間可能增值差距達約 NT$31,400<br>
     2. <strong> 匯率風險對沖 </strong>: 若客戶希望分散台幣資產風險，美元保單可作為對沖工具 <br>
     3. <strong> 繳費期間優勢 </strong>: 萬美利 2 年期方案可迅速完成保費義務，資金效率高 <br>
     4. <strong> 宣告利率窗口 </strong>: 現行 4.4% 宣告利率處於歷史相對高點，轉換時機較佳 <br>
-    5. <strong> 資產狀態考量 </strong>: 添壽增額已持有 30 年，進入價值回收階段，轉換時機適中 <br><br>
+    5. <strong> 資產狀態考量 </strong>: 添壽增額已持有 30 年，現值僅有 9 萬台幣，轉換時機適中 <br><br>
     
-    <strong> 轉換策略建議 </strong>: 考量客戶資產配置及風險偏好，建議採取「部分轉換策略」—保留 40-60% 添壽增額保單價值作為穩定基礎，將剩餘部分轉換至萬美利以追求更高收益，同時分散匯率風險。轉換時可考慮分階段執行，以降低匯率時點風險。
+    <strong> 轉換策略建議 </strong>: 考量添壽增額保單現值僅有 9 萬台幣，建議採取「全部轉換策略」—將全部保單價值轉入萬美利以追求更高收益，同時獲得美元資產配置優勢。由於保單價值不高，全部轉換可以簡化管理並最大化長期收益潛力。
   </div>
 </div>
 
@@ -316,17 +310,16 @@
       </ul>
     </div>
   </div>
-  
-  <div style="margin-top: 25px; padding: 15px; background-color: #f9f9f9; border-radius: 5px;">
+    <div style="margin-top: 25px; padding: 15px; background-color: #f9f9f9; border-radius: 5px;">
     <p><strong> 專業評論：</strong></p>
-    <p> 添壽增額保單在過去 30 年已累積相當可觀的保單價值，轉換決策應考量以下因素：</p>
+    <p> 添壽增額保單在過去 30 年僅累積了 9 萬台幣的保單價值，轉換決策應重點考量以下因素：</p>
     <ol>
-      <li><strong> 美元資產配置需求 </strong>：客戶整體資產組合中美元資產占比是否需要提升 </li>
-      <li><strong> 收益期望值 </strong>：是否願意承擔一定風險以追求更高收益 </li>
-      <li><strong> 保障需求變化 </strong>：目前人生階段對保障額度的需求是否提高 </li>
-      <li><strong> 資金運用彈性 </strong>：對於增值回饋金運用方式的彈性需求 </li>
+      <li><strong> 美元資產配置優勢 </strong>：萬美利提供美元計價保障，有效抵禦通貨膨脹，增加資產多元性 </li>
+      <li><strong> 顯著提升收益潛力 </strong>：萬美利 4.4% 的宣告利率遠優於舊保單， 20 年後可望增值 23.3% </li>
+      <li><strong> 大幅強化保障額度 </strong>： 20 年後保障差距預計達 23.3%，為家庭提供更充足防護 </li>
+      <li><strong> 卓越資金運用彈性 </strong>：萬美利增值回饋金設計多元，可累積或增購保額，滿足不同人生階段需求 </li>
     </ol>
-    <p> 基於精算分析，保留部分添壽增額保單並部分轉換至萬美利的「混合策略」能在風險與收益間取得較佳平衡。</p>
+    <p> <span style="font-weight: bold; color: #1890ff;"> 綜合精算分析，考量添壽增額現值僅有 9 萬台幣，全額轉入萬美利將能實現收益最大化，同時顯著提升保障能力，建議採取「全部轉換策略」以獲取最佳效益。</span></p>
   </div>
 </div>
 
@@ -356,26 +349,27 @@
       </ul>
     </div>
   </div>
-  
-  <div style="margin-top: 25px; padding: 15px; background-color: #e6f7ff; border-left: 4px solid #1890ff; border-radius: 3px;">
+    <div style="margin-top: 25px; padding: 15px; background-color: #e6f7ff; border-left: 4px solid #1890ff; border-radius: 3px;">
     <h3> 實務執行建議：</h3>
-    <p> 綜合客戶已持有添壽增額保單 30 年的特殊情況，建議採取以下轉換策略：</p>
+    <p> 綜合評估添壽增額保單現值僅 9 萬台幣的情況，<strong> 轉入萬美利將帶來顯著收益提升與保障增強 </strong>，建議採取以下高效轉換策略：</p>
     
-    <h4> 短期執行方案 (1-2 個月內 )：</h4>
+    <h4> 立即行動方案 (1-2 週內 )：</h4>
     <ol>
-      <li> 申請添壽增額保單的「價值評估報告」，確認精確現金價值與保障內容 </li>
-      <li> 同時評估萬美利 2 年期方案的詳細繳費規劃與預估效益 </li>
-      <li> 諮詢稅務專家評估部分解約或轉換可能產生的稅務影響 </li>
+      <li> 申請添壽增額保單的「價值評估報告」，確認現金價值與解約程序 </li>
+      <li> <strong style="color: #1890ff;"> 量身打造萬美利 2 年期方案 </strong>，制定最佳保障規劃，鎖定 4.4% 的優惠宣告利率 </li>
+      <li> 安排專人一對一解說萬美利的 <strong> 增值回饋金彈性運用選擇 </strong> 與 <strong> 快速資產累積優勢 </strong> </li>
     </ol>
     
-    <h4> 中期執行方案 (3-6 個月 )：</h4>
+    <h4> 全額轉換執行方案 (30 天內完成 )：</h4>
     <ol>
-      <li> 選擇 40-60% 的添壽增額保單價值進行部分解約或保單貸款 </li>
-      <li> 將該資金轉入萬美利 2 年期保單，分擔匯率風險 </li>
-      <li> 設定增值回饋分享金累積模式，最大化長期複利效應 </li>
+      <li> 將添壽增額保單 9 萬元全額解約，<strong> 一次性轉入萬美利保單 </strong> 以獲取最佳投保條件 </li>
+      <li> 設定萬美利 <strong> 增值回饋分享金累積模式 </strong>，啟動強效複利成長機制 </li>
+      <li> 建議選擇 <strong> 提高初始保障額度 </strong> 配置，實現立即保障升級，為家人提供更完整保障 </li>
     </ol>
     
-    <p><strong></p>
+    <p style="font-weight: bold; color: #1890ff; font-size: 15px; text-align: center; margin-top: 15px;">
+      把握目前 4.4% 高利率窗口，及早完成轉換，即刻享有更優質保障與收益潛力！
+    </p>
   </div>
 </div>
 
